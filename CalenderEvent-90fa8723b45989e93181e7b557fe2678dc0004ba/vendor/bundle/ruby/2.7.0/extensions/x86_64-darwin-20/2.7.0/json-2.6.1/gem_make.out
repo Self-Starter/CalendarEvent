@@ -1,0 +1,13 @@
+current directory: /Volumes/hdd/Ruchita/Demo/EventCalender/eventCalenderDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+/Users/pc/.rvm/rubies/ruby-2.7.4/bin/ruby -I /Users/pc/.rvm/rubies/ruby-2.7.4/lib/ruby/2.7.0 -r ./siteconf20220125-55013-u7bgbe.rb extconf.rb
+creating Makefile
+
+current directory: /Volumes/hdd/Ruchita/Demo/EventCalender/eventCalenderDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" clean
+
+current directory: /Volumes/hdd/Ruchita/Demo/EventCalender/eventCalenderDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Volumes/hdd/Ruchita/Demo/EventCalender/eventCalenderDemo/vendor/bundle/ruby/2.7.0/gems/json-2.6.1/ext/json
+make "DESTDIR=" install
